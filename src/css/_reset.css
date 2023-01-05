@@ -4,21 +4,21 @@
 ::after {
     box-sizing: border-box;
     border-style: solid;
-    border-width: 0
+    border-width: 0;
 }
 
 html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: transparent
+    -webkit-tap-highlight-color: transparent;
 }
 
 body {
-    margin: 0
+    margin: 0;
 }
 
 main {
-    display: block
+    display: block;
 }
 
 p,
@@ -30,7 +30,7 @@ iframe,
 form,
 figure,
 dl {
-    margin: 0
+    margin: 0;
 }
 
 h1,
@@ -41,7 +41,7 @@ h5,
 h6 {
     font-size: inherit;
     font-weight: inherit;
-    margin: 0
+    margin: 0;
 }
 
 ul,
@@ -49,50 +49,50 @@ ol,
 menu {
     margin: 0;
     padding: 0;
-    list-style: none
+    list-style: none;
 }
 
 dt {
-    font-weight: 700
+    font-weight: 700;
 }
 
 dd {
-    margin-left: 0
+    margin-left: 0;
 }
 
 pre {
     font-family: monospace, monospace;
-    font-size: 1em
+    font-size: 1em;
 }
 
 address {
-    font-style: inherit
+    font-style: inherit;
 }
 
 a {
     background-color: transparent;
     text-decoration: none;
-    color: inherit
+    color: inherit;
 }
 
 abbr[title] {
-    text-decoration: underline dotted
+    text-decoration: underline dotted;
 }
 
 b,
 strong {
-    font-weight: bolder
+    font-weight: bolder;
 }
 
 code,
 kbd,
 samp {
     font-family: monospace, monospace;
-    font-size: 1em
+    font-size: 1em;
 }
 
 small {
-    font-size: 80%
+    font-size: 80%;
 }
 
 sub,
@@ -100,15 +100,15 @@ sup {
     font-size: 75%;
     line-height: 0;
     position: relative;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 sub {
-    bottom: -.25em
+    bottom: -0.25em;
 }
 
 sup {
-    top: -.5em
+    top: -0.5em;
 }
 
 svg,
@@ -116,7 +116,7 @@ img,
 embed,
 object,
 iframe {
-    vertical-align: bottom
+    vertical-align: bottom;
 }
 
 button,
@@ -137,44 +137,44 @@ textarea {
     margin: 0;
     border-radius: 0;
     text-align: inherit;
-    text-transform: inherit
+    text-transform: inherit;
 }
 
 button,
 select {
-    text-transform: none
+    text-transform: none;
 }
 
 button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-    cursor: pointer
+    cursor: pointer;
 }
 
 button:disabled,
 input[type="button"]:disabled,
 input[type="reset"]:disabled,
 input[type="submit"]:disabled {
-    cursor: default
+    cursor: default;
 }
 
 :-moz-focusring {
-    outline: auto
+    outline: auto;
 }
 
 select:disabled {
-    opacity: inherit
+    opacity: inherit;
 }
 
 option {
-    padding: 0
+    padding: 0;
 }
 
 fieldset {
     margin: 0;
     padding: 0;
-    min-width: 0
+    min-width: 0;
 }
 
 legend {
@@ -183,71 +183,71 @@ legend {
     display: table;
     max-width: 100%;
     padding: 0;
-    white-space: normal
+    white-space: normal;
 }
 
 progress {
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 textarea {
-    overflow: auto
+    overflow: auto;
 }
 
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
-    height: auto
+    height: auto;
 }
 
 input[type="number"] {
-    -moz-appearance: textfield
+    -moz-appearance: textfield;
 }
 
 input[type="search"] {
-    -webkit-appearance: textfield
+    -webkit-appearance: textfield;
 }
 
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration,
-input[type=search]::-ms-clear,
-input[type=search]::-ms-reveal {
-    display: none
+input[type="search"]::-ms-clear,
+input[type="search"]::-ms-reveal {
+    display: none;
 }
 
 label[for] {
-    cursor: pointer
+    cursor: pointer;
 }
 
 details {
-    display: block
+    display: block;
 }
 
 summary {
-    display: list-item
+    display: list-item;
 }
 
 [contenteditable]:focus {
-    outline: auto
+    outline: auto;
 }
 
 table {
     border-color: inherit;
-    border-collapse: collapse
+    border-collapse: collapse;
 }
 
 caption {
-    text-align: left
+    text-align: left;
 }
 
 td,
 th {
     vertical-align: top;
-    padding: 0
+    padding: 0;
 }
 
 th {
     text-align: left;
-    font-weight: 700
+    font-weight: 700;
 }
