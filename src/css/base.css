@@ -1,0 +1,28 @@
+/* || CSS variables */
+:root {
+    --bg-primary: #fdfdfd;
+    --text-primary: #333;
+}
+
+/* || Basic rules */
+body {
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    font-size: 16px;
+}
+
+button {
+    text-align: center;
+    user-select: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+input[type="checkbox"],
+input[type="radio"],
+select {
+    cursor: pointer;
+}
