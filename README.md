@@ -1,6 +1,6 @@
 ## **This is my quick starter kit for small projects**
 
-You can use this repository to ***quickly start a small project***, in order to test an idea quickly or something like that. Basically, it offers a nice little structure of files already in place with a complete *reset stylesheet*, and all you have to do is code :))
+You can use this repository to ***quickly start a small project*** (HTML, CSS and JS), in order to test an idea quickly or something like that. Basically, it offers a nice little structure of files already in place with a complete *reset stylesheet*, and all you have to do is code :))
 
 **To clone** this repo with Git, just do: `git clone https://github.com/Gray-Mafutala/quick-starter-small-project.git`.
 
